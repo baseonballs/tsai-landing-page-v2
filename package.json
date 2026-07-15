@@ -6,7 +6,11 @@
     "dev": "next dev -p 3040",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "daemon:start": "./scripts/landing-daemon.sh start",
+    "daemon:stop": "./scripts/landing-daemon.sh stop",
+    "daemon:restart": "./scripts/landing-daemon.sh restart",
+    "daemon:status": "./scripts/landing-daemon.sh status"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.3",
