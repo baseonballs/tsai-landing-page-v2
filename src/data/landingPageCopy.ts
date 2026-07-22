@@ -35,13 +35,13 @@ export const landingPageCopy = {
   hero: {
     badge: "Spotlight Beta Program",
     title: "Pro teams have a film room. Everyone else has a phone full of footage.",
-    subtitle: "Spotlight is the cinematic, high-fidelity development platform bringing decision-grade video intelligence and captive AI to grassroots youth hockey—transforming raw recordings into an interactive classroom.",
+    subtitle: "Spotlight is the mordern, high-fidelity player development platform bringing decision-grade video intelligence and captive AI to grassroots youth hockey—transforming raw recordings into an interactive playground.",
     primaryCta: "Apply for Beta Access",
     secondaryCta: "Explore the Platform"
   },
   ecosystem: {
-    eyebrow: "The Architecture of Performance",
-    title: "Four cinematic suites. One unified tape.",
+    eyebrow: "The Architecture of Sports Intelligence",
+    title: "Two synergistic applications, and four sub-stack programs. One unified tape.",
     subtitle: "Spotlight reconstructs raw game files through four distinct analytical lenses, then distributes tailored learning loops directly to your athletes.",
     tiers: [
       {
@@ -99,7 +99,7 @@ export const landingPageCopy = {
   technology: {
     eyebrow: "The AI Edge · MASCE Engine",
     title: "Software margins on a hardware moat.",
-    subtitle: "Most AI guesses. Ours is auditable. By running our Multi-Agent Sports Cognition Engine (MASCE) on our owned hybrid GPU fabric, we collapsed the economics of automated video analysis.",
+    subtitle: "Most AI guesses. Ours is auditable. By running our Multi-Agent Sports Cognition Engine (MASCE) on our owned hybrid GPU fabric and hybrid cloud, we collapsed the economics of automated video analysis.",
     modules: [
       {
         id: "detect",
